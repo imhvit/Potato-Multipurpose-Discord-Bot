@@ -11,11 +11,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@discordjs/rest": "^2.3.0",
+    "@discordjs/rest": "^2.6.0",
     "chalk": "^4.1.2",
     "colors": "^1.4.0",
     "discord-api-types": "^0.37.92",
-    "discord.js": "^14.15.3",
+    "discord.js": "^14.25.1",
     "dotenv": "^16.4.5",
     "mongoose": "^8.9.5",
     "ms": "^2.1.3",
